@@ -24,7 +24,6 @@
     }
   },
   "dependencies": {
-    "color-name": "^1.0.0"
   },
   "devDependencies": {
     "xo": "^0.12.1"
